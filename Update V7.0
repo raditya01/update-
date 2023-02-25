@@ -1,0 +1,10 @@
+{
+  "Visibility": "GONE",
+  "Title": "What's New",
+  "Description": "- New UI UX\n- Update Data File V4 Stable\n- Fixed Bug",
+  "MainTextButton": "Install Now",
+  "Cancelable": "false",
+  "CancelButtonText": "oke",
+  "DownloadLink": "https://t.me/ZmoDZ1",
+  "Version": "7.0"
+}
